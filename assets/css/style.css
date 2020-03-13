@@ -1,0 +1,28 @@
+body {
+	background-image: url("..//images/memphis-colorful.png");
+	margin: 0px;
+	padding: 0px;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+
+
+.container-1 {
+    background-color: rgb(248, 246, 136);
+	padding: 20px 20px;
+	margin: 50px;
+}
+
+.display-4 {
+	color: rgba(17, 17, 202, 0.945);
+    font-weight: bolder;
+}	
+
+.answerBtn {
+	margin-bottom: 10px;
+	width: 80%;
+	font-size: 20px;
+	background-color: rgb(212, 188, 231);
+    color: black;
+	border: rgb(138, 88, 185) solid;
+}
