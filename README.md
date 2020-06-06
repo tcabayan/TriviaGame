@@ -15,3 +15,5 @@ Wait a few seconds, then show the next question.
 * If the player chooses the wrong answer, the player will be alerted that they have selected the wrong option and then the correct answer will be displayed. After a few seconds, the next trivia question will show up on the screen. 
 
 * On the final screen, the player will receive a summary of how many questions the player answered correctly, incorrectly, or left unanswered. An option to restart the game (without reloading the page) will be provided.
+
+Play at https://tcabayan.github.io/TriviaGame/.
